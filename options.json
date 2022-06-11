@@ -1,0 +1,46 @@
+{
+	"destinations":{
+		"Sydney":{
+            "name":"Sydney",
+			"info":"Sydney, capital of New South Wales and one of Australia's largest cities, is best known for its harbourfront Sydney Opera House, with a distinctive sail-like design.",
+			"transports": {
+					
+			},
+			"flights": {
+				
+			},
+			"accommodations":{
+				
+			},
+			"food": {
+				
+			},
+			"activities": {
+				
+			}
+		},
+		"City":{
+            "name":"",
+			"info":"",
+			"transports": {
+					
+			},
+			"flights": {
+				
+			},
+			"accommodations":{
+				
+			},
+			"food": {
+				
+			},
+			"activities": {
+				
+			}
+		}
+	},
+	"insurances": {
+		
+	}
+
+}
